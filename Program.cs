@@ -18,7 +18,7 @@ namespace date_of_birth_calculator
 
             birth_calculator(Convert.ToInt32 (Console.ReadLine()));
 
-            //change for a commit on git ,just to know how it work
+            
 
         }
     }
