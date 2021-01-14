@@ -1,0 +1,11 @@
+C:\Users\miran\OneDrive\Desktop\date_of_birth_calculator\bin\Debug\netcoreapp3.1\date_of_birth_calculator.exe
+C:\Users\miran\OneDrive\Desktop\date_of_birth_calculator\bin\Debug\netcoreapp3.1\date_of_birth_calculator.deps.json
+C:\Users\miran\OneDrive\Desktop\date_of_birth_calculator\bin\Debug\netcoreapp3.1\date_of_birth_calculator.runtimeconfig.json
+C:\Users\miran\OneDrive\Desktop\date_of_birth_calculator\bin\Debug\netcoreapp3.1\date_of_birth_calculator.runtimeconfig.dev.json
+C:\Users\miran\OneDrive\Desktop\date_of_birth_calculator\bin\Debug\netcoreapp3.1\date_of_birth_calculator.dll
+C:\Users\miran\OneDrive\Desktop\date_of_birth_calculator\bin\Debug\netcoreapp3.1\date_of_birth_calculator.pdb
+C:\Users\miran\OneDrive\Desktop\date_of_birth_calculator\obj\Debug\netcoreapp3.1\date_of_birth_calculator.csprojAssemblyReference.cache
+C:\Users\miran\OneDrive\Desktop\date_of_birth_calculator\obj\Debug\netcoreapp3.1\date_of_birth_calculator.AssemblyInfoInputs.cache
+C:\Users\miran\OneDrive\Desktop\date_of_birth_calculator\obj\Debug\netcoreapp3.1\date_of_birth_calculator.AssemblyInfo.cs
+C:\Users\miran\OneDrive\Desktop\date_of_birth_calculator\obj\Debug\netcoreapp3.1\date_of_birth_calculator.dll
+C:\Users\miran\OneDrive\Desktop\date_of_birth_calculator\obj\Debug\netcoreapp3.1\date_of_birth_calculator.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "date_of_birth_calculator/1.0.0": {
+        "runtime": {
+          "date_of_birth_calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "date_of_birth_calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
